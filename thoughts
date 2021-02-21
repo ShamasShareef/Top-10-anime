@@ -1,0 +1,23 @@
+HTML
+Dynamic  - changing, not constant
+
+- Display top anime <-
+
+- Bar chart of top anime by members or score
+- Maybe animating by season rank 
+
+header - Top Anime - h1
+list of top 10 anime by score - ol
+
+  [title - h2
+  score
+  picture]
+  (li)
+
+
+DRY - DONT REPEAT YOURSELF
+  - C/P 10 LIST ELEMENTS ISNT DRY
+
+WE HAV JAVASCRIPT FOR DRYNESS
+  - SAME SET OF INSTRUCTIONS, DIFFERENT VALUES
+
