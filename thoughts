@@ -21,3 +21,20 @@ DRY - DONT REPEAT YOURSELF
 WE HAV JAVASCRIPT FOR DRYNESS
   - SAME SET OF INSTRUCTIONS, DIFFERENT VALUES
 
+Runtime describes software/instructions that are executed while your program is running, 
+especially those instructions that you did not write explicitly, 
+but are necessary for the proper execution of your code.
+
+where your code is going to run determines how you are going to code 
+
+Browser is run time for front end
+Node    is run time for back end
+
+
+
+you need to know what the problem is, try to read code to see if working as intended
+doing the same thing in a different environment
+
+.env stores variables specific to your environment (like the port number), private variables
+git ignore hides things from history 
+heroku will run the js file onto their cloud

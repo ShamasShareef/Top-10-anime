@@ -1,11 +1,11 @@
 import animeList from "./data.js";
 var orderedList = document.querySelector("#anime-list");
+console.log(window);
 
 /*
 1. get list of anime - DONE
 2. display the list of anime with a loop
   - same process, diff input
-
 */
 //animeList[0]
 
@@ -24,7 +24,6 @@ for (var i = 0; i < animeList.length; i = i + 1) {
   
   orderedList.insertAdjacentHTML("beforeend", listItem); //insert
 }
-
 
 /** 
 <li>
